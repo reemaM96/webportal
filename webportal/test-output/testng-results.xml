@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-19T14:06:55 AST" name="Default suite" finished-at="2023-06-19T14:09:07 AST" duration-ms="132651">
+    <groups>
+    </groups>
+    <test started-at="2023-06-19T14:06:55 AST" name="Default test" finished-at="2023-06-19T14:09:07 AST" duration-ms="132651">
+      <class name="com.stc.test.STC">
+        <test-method signature="Amethod()[pri:0, instance:com.stc.test.STC@2e385cce]" started-at="2023-06-19T14:06:55 AST" name="Amethod" finished-at="2023-06-19T14:07:09 AST" duration-ms="14318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amethod -->
+        <test-method signature="Bmethod()[pri:0, instance:com.stc.test.STC@2e385cce]" started-at="2023-06-19T14:07:09 AST" name="Bmethod" finished-at="2023-06-19T14:07:41 AST" duration-ms="31657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="Cmethod()[pri:0, instance:com.stc.test.STC@2e385cce]" started-at="2023-06-19T14:07:41 AST" name="Cmethod" finished-at="2023-06-19T14:08:23 AST" duration-ms="42403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cmethod -->
+        <test-method signature="Dmethod()[pri:0, instance:com.stc.test.STC@2e385cce]" started-at="2023-06-19T14:08:23 AST" name="Dmethod" finished-at="2023-06-19T14:09:02 AST" duration-ms="38699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dmethod -->
+        <test-method signature="Emethod()[pri:0, instance:com.stc.test.STC@2e385cce]" started-at="2023-06-19T14:09:02 AST" name="Emethod" finished-at="2023-06-19T14:09:07 AST" duration-ms="5486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emethod -->
+      </class> <!-- com.stc.test.STC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
